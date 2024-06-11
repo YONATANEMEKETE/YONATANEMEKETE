@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YONATANE</h1> 
+<h1 align="center">Hi there 👋, I'm YONATANE</h1> 
 <h3 align="center">A FrontEnd Developer passionate to solve problems with beautifull UI.</h3>
 
 
