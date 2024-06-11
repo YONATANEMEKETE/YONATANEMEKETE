@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm YONATANE</h1> 
 <h3 align="center">A FrontEnd Developer passionate to solve problems with beautifull UI.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonatanemekete&label=Profile%20views&color=0e75b6&style=flat" alt="yonatanemekete" /> </p>
 
 
 
-- 🔭 I’m currently working on **a side project**
 
-- 🌱 I’m currently learning **everything I don't know yet about Good looking UI.**
+- 🔭 I’m Always working on **a project**
+
+- 🌱 I’m Always learning **everything I don't know yet about Good looking UI.**
 
 - 💬 Ask me about **react, vite, next.js....**
 
