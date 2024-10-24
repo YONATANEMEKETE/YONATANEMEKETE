@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, vite, next.js....**
 
-- 📫 How to reach me **yonatanemekete33@gmail.com**
+- 📫 How to reach me [email me](amanualealemayehu33@gmail.com)
 
 
 
