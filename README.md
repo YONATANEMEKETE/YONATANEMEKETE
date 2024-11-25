@@ -2,14 +2,14 @@
 <h3 align="center">A FrontEnd Developer passionate to solve problems with beautifull UI.</h3>
 
 
+👋 Hi, I'm YONATANE MEKETE, a passionate frontend developer specializing in creating elegant and user-friendly web applications. I have a strong foundation in React.js, Next.js, and the latest frontend technologies, with a growing expertise in full-stack development using Next.js latest features.    
 
+💼 I offer my development services, where I collaborate with clients to transform their ideas into responsive, accessible, and performance-driven web solutions.
 
+💡 Beyond coding, I am constantly exploring new tools and frameworks to stay at the forefront of web development.
 
-- 🔭 I’m Always working on **a project**
+🌟 Let’s connect! I’d love to hear about your projects or opportunities to collaborate on impactful web applications.
 
-- 🌱 I’m Always learning **everything I don't know yet about Good looking UI.**
-
-- 💬 Ask me about **react, vite, next.js....**
 
 - 📫 How to reach me <mark>amanualealemayehu33@gmail.com</mark>
 
