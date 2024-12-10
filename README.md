@@ -11,7 +11,7 @@
 🌟 Let’s connect! I’d love to hear about your projects or opportunities to collaborate on impactful web applications.
 
 
-- 📫 How to reach me <mark>amanualealemayehu33@gmail.com</mark>
+- 📫 How to reach me <mark>yonatanemekete22@gmail.com</mark>
 
 
 
