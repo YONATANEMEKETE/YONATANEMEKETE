@@ -52,44 +52,9 @@ Trying ideas, testing architectures, and learning by building.
 Sharing the decisions, problems, and lessons that come from actually shipping software.
 
 ---
+🛠️ My Toolkit
 
-## 🛠️ My Toolkit
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
-</p>
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
-</p>
-
-### Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
-</p>
-
-### Databases & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,supabase" />
-</p>
-
-### Infrastructure & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,vercel,cloudflare" />
-</p>
-
-### Tools & Workflow
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pnpm" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,nodejs,express,nestjs,postgres,prisma,redis,supabase,docker,linux,nginx,githubactions,vercel,cloudflare,git,github,vscode,postman,pnpm" /> </p>
 
 ---
 
