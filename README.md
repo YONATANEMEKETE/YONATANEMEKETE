@@ -1,35 +1,108 @@
-<h1 align="center">Hi there 👋, I'm YONATANE</h1> 
-<h3 align="center">A FrontEnd Developer passionate to solve problems with beautifull UI.</h3>
+<div align="center">
 
+# Hey, I'm Yonatane 👋
 
-👋 Hi, I'm YONATANE MEKETE, a passionate frontend developer specializing in creating elegant and user-friendly web applications. I have a strong foundation in React.js, Next.js, and the latest frontend technologies, with a growing expertise in full-stack development using Next.js latest features.    
+### `Full-Stack TypeScript Engineer`
 
-💼 I offer my development services, where I collaborate with clients to transform their ideas into responsive, accessible, and performance-driven web solutions.
+I build software from **interface to infrastructure**.
 
-💡 Beyond coding, I am constantly exploring new tools and frameworks to stay at the forefront of web development.
+I enjoy turning ideas into production-grade applications designing the architecture, building the backend, crafting the frontend, modeling the data, and shipping the whole thing to production.
 
-🌟 Let’s connect! I’d love to hear about your projects or opportunities to collaborate on impactful web applications.
+<br />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-ymk.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yonatanemekete/?skipRedirect=true)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Yonatanem2)
 
-- 📫 How to reach me <mark>yonatanemekete22@gmail.com</mark>
-
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yonatanemekete) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
+</div>
 
 ---
 
+## 🧠 What I'm Into
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+Frontend        →  React · Next.js · TypeScript
+Backend         →  Node.js · Express · NestJS · REST APIs
+Data            →  PostgreSQL · Prisma · Redis
+Systems         →  Auth · Caching · Queues · Realtime · Background Jobs
+Infrastructure  →  Docker · CI/CD · Linux · Nginx · Cloud Deployment
+Engineering     →  Architecture · Testing · Observability · Security
+```
 
+I care about the details that turn **"it works"** into **"it's ready for production."**
 
+---
 
+## 🔥 What You'll Find Here
 
+**Production-grade projects**
 
+Real applications built with real engineering considerations.
+
+**Open-source alternatives**
+
+Building useful software and exploring how existing products can be reimagined.
+
+**Engineering experiments**
+
+Trying ideas, testing architectures, and learning by building.
+
+**Things I've learned**
+
+Sharing the decisions, problems, and lessons that come from actually shipping software.
+
+---
+
+## 🛠️ My Toolkit
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### Backend & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### Databases & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,redis,supabase" />
+</p>
+
+### Infrastructure & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,vercel,cloudflare" />
+</p>
+
+### Tools & Workflow
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pnpm" />
+</p>
+
+---
+
+## 🚀 Build. Ship. Learn.
+
+I'm constantly building, breaking, fixing, and shipping.
+
+If you're interested in **full-stack engineering, TypeScript, backend systems, architecture, or building software in public**, you're in the right place.
+
+---
+
+<div align="center">
+
+### `Build things that are worth building.`
+
+</div>
