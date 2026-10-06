@@ -1,73 +1,114 @@
 <div align="center">
 
-# Hey, I'm Yonatane 👋
+# Yonatane
 
 ### `Full-Stack TypeScript Engineer`
 
-I build software from **interface to infrastructure**.
+**I build software from interface to infrastructure.**
 
-I enjoy turning ideas into production-grade applications designing the architecture, building the backend, crafting the frontend, modeling the data, and shipping the whole thing to production.
+I like taking an idea all the way from **architecture → code → data → deployment**.
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio-ymk.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yonatanemekete/?skipRedirect=true)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Yonatanem2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://yonatanem.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yonatanemekete/?skipRedirect=true)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Yonatanem2)
 
 </div>
 
 ---
 
-## 🧠 What I'm Into
+## 01 — What I Build
+
+I build full-stack applications with TypeScript, with a focus on the parts that make software reliable beyond the first demo.
 
 ```text
-Frontend        →  React · Next.js · TypeScript
-Backend         →  Node.js · Express · NestJS · REST APIs
-Data            →  PostgreSQL · Prisma · Redis
-Systems         →  Auth · Caching · Queues · Realtime · Background Jobs
-Infrastructure  →  Docker · CI/CD · Linux · Nginx · Cloud Deployment
-Engineering     →  Architecture · Testing · Observability · Security
+Frontend        React · Next.js · TypeScript
+Backend         Node.js · Express · NestJS · REST APIs
+Data            PostgreSQL · Prisma · Redis
+Systems         Auth · Caching · Queues · Realtime · Background Jobs
+Infrastructure  Docker · CI/CD · Linux · Nginx · Cloud Deployment
+Engineering     Architecture · Testing · Observability · Security
 ```
 
-I care about the details that turn **"it works"** into **"it's ready for production."**
+My goal is simple:
+
+> **Don't just make it work. Make it hold up.**
 
 ---
 
-## 🔥 What You'll Find Here
+## 02 — What You'll Find Here
 
-**Production-grade projects**
+### Building
 
-Real applications built with real engineering considerations.
+Real applications built to solve real problems.
 
-**Open-source alternatives**
+### Open Source
 
-Building useful software and exploring how existing products can be reimagined.
+Experiments, tools, and alternative approaches to existing products.
 
-**Engineering experiments**
+### Engineering
 
-Trying ideas, testing architectures, and learning by building.
+Architecture decisions, backend systems, infrastructure, testing, and everything around actually shipping software.
 
-**Things I've learned**
+### Writing
 
-Sharing the decisions, problems, and lessons that come from actually shipping software.
-
----
-🛠️ My Toolkit
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,nodejs,express,nestjs,postgres,prisma,redis,supabase,docker,linux,nginx,githubactions,vercel,cloudflare,git,github,vscode,postman,pnpm" /> </p>
+Lessons, mistakes, technical deep dives, and things I learn while building.
 
 ---
 
-## 🚀 Build. Ship. Learn.
+## 03 — My Toolkit
 
-I'm constantly building, breaking, fixing, and shipping.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,vite,nodejs,express,nestjs,postgres,prisma,redis,supabase,docker,linux,nginx,githubactions,vercel,cloudflare,git,github,vscode,postman,pnpm" />
+</p>
 
-If you're interested in **full-stack engineering, TypeScript, backend systems, architecture, or building software in public**, you're in the right place.
+---
+
+## 04 — How I Think
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Ship
+```
+
+I learn best by building things that are slightly harder than what I already know.
+
+That means getting into the uncomfortable parts:
+
+**system design, failure handling, testing, performance, security, observability, deployment.**
+
+---
+
+## 05 — Around Here
+
+I'm interested in:
+
+`TypeScript` · `Full-Stack Engineering` · `Backend Systems` · `Architecture` · `DevOps` · `Open Source`
+
+I'm also documenting what I learn along the way.
 
 ---
 
 <div align="center">
 
-### `Build things that are worth building.`
+### Build things.
+
+### Understand how they work.
+
+### Ship them.
+
+<br />
+
+`Build things that are worth building.`
 
 </div>
